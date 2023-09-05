@@ -1,0 +1,49 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    --poppins-23-medium: Poppins;
+    --font-barlow: Barlow;
+    --roboto-18-regular: Roboto;
+    --font-franklin-gothic-medium: 'Franklin Gothic Medium';
+    --poppins-23-medium-size: 23px;
+    --poppins-18-medium-size: 18px;
+    --poppins-14-medium-size: 14px;
+    --poppins-semi-bold-35-size: 35px;
+    --dark-colour: #2e333a;
+    --color-silver: #b2c2cb;
+    --light-text: #fff;
+    --light-grey: #dbdbdb;
+    --color-gainsboro-100: #dadada;
+    --secondary-blue-light-1: #3d757f;
+    --secondary-blue: #0ed2f6;
+    --w-s-primary: #ffce06;
+    --dark-blue: #0c2756;
+    --secondary-blue-light-2: #b8f1fc;
+    --color-blueviolet: #5423d2;
+    --gap-21xl: 40px;
+    --gap-3xs: 10px;
+    --gap-16xl: 35px;
+    --gap-5xs: 8px;
+    --gap-xs: 12px;
+    --padding-xl: 20px;
+    --padding-xs: 12px;
+    --padding-41xl: 60px;
+    --padding-3xs: 10px;
+    --padding-21xl: 40px;
+    --padding-mini: 15px;
+    --br-xs: 12px;
+    --br-9xs: 4px;
+    --br-6xl: 25px;
+    --br-3xs: 10px;
+    --br-10xs-5: 2.5px;
+    --newm-t-nav: -6.223021507263184px -6.223021507263184px 18.67px #3b4451, 6.223021507263184px 6.223021507263184px 18.67px #000;
+    --newm-t-components: 14px 14px 40px rgba(16, 16, 18, 0.75), -7px -7px 30px #262e32;
+    --new-t-btn-blue-inner: -6.223021507263184px -6.223021507263184px 6.22px #153565 inset, 3.7338130474090576px 3.7338130474090576px 6.22px #05132c inset;
+    --newm-t-btn-blue: -6.223021507263184px -6.223021507263184px 18.67px #153565, 6.223021507263184px 6.223021507263184px 18.67px #05132c;
+    --newm-t-btn-inner: -6.223021507263184px -6.223021507263184px 6.22px #3b4451 inset, 3.7338130474090576px 3.7338130474090576px 6.22px #000 inset;
+}
